@@ -7,6 +7,7 @@ execute:
 
 bibtex_bibfiles:
   - references.bib
+  - more-references.bib
 
 sphinx:
   config:
